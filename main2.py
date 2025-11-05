@@ -11,8 +11,8 @@ from tkinter import ttk, filedialog, messagebox
 from collections import OrderedDict
 
 # Конфигурация
-API_KEY = "5dea5e24957590e6a47f9a989dbdaf9d9bd9ff2e92c1c082404ba2a8716264d7"  # Замените на ваш API ключ
-SCAN_INTERVAL = 15  # Интервал между сканированиями в секундах
+API_KEY = "5dea5e24957590e6a47f9a989dbdaf9d9bd9ff2e92c1c082404ba2a8716264d7"  
+SCAN_INTERVAL = 15 
 LOGO_TEXT = "VirusTotal Scanner"
 AUTHOR_TEXT = "Разработчик: Petruchio"
 VERSION = "1.0"
